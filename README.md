@@ -16,4 +16,8 @@
   Nosso objetivo é facilitar a localização e utilização dos carrinhos, reduzindo o tempo gasto pelos usuários. Vamos desenvolver um sistema integrado com sensores e               microcontroladores Arduino para monitorar continuamente o estado dos carrinhos. Isso permitirá que os operadores saibam imediatamente quando um carrinho está vazio,         
   aumentando a eficiência operacional e a produtividade geral. O sistema aprimorado garantirá uma resposta mais ágil e coordenada nas operações.
 
+<p align="center">
+<img src="scr/assets/JB-img.png" alt="JohnDeere">
+</p>
+
 
