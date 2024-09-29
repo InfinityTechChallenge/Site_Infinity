@@ -26,7 +26,7 @@
 
 ## Resultados ✅
 
-Clique aqui para acessar **toda a visualização da Apresentação** de nosso projeto: [Apresentação](https://www.canva.com/design/DAGRsA8zfL4/sjx1QSsr5nYMGf09zac2kQ/edit?utm_content=DAGRsA8zfL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
+Clique aqui para acessar **toda a visualização da Apresentação** de nosso projeto: [Apresentação](https://www.canva.com/design/DAGFS6GM3Aw/0-2xlqHYrZxdfv8g3aQgjA/edit?utm_content=DAGFS6GM3Aw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
 
-Clique aqui para acessar **o video Explicativo** de nosso projeto: [Video](). 👈 <br>
+Clique aqui para acessar **o video Explicativo** de nosso projeto: [Video](https://www.youtube.com/watch?feature=shared&v=fd72xDK9Gok). 👈 <br>
 
