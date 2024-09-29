@@ -33,7 +33,7 @@
 
 ### Solução IoT do ESP32 🌐
 
-<p align="center" height = "1px">
+<p align="center">
 <img src="scr/assets/NodeRed.png" alt="Node-red">
 </p>
 
