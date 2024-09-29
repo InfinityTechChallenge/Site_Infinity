@@ -25,6 +25,7 @@
 ### Solução IoT do ESP32 🌐
 
 ## Resultados ✅
+ Minha aplicação está desenvolvendo um site para facilitar a visualização dos carrinhos de forma eficiente. Implementamos um programa que utiliza um sensor de peso para indicar se a balança está vazia ou ocupada. Além disso, o site também exibe a localização dos carrinhos, utilizando a conectividade Wi-Fi para determinar a posição exata de cada um. Dessa forma, conseguimos monitorar tanto o estado de carga quanto a localização em tempo real, proporcionando uma melhor gestão e controle dos carrinhos no ambiente.
 
 Clique aqui para acessar **toda a visualização da Apresentação** de nosso projeto: [Apresentação](https://www.canva.com/design/DAGRsA8zfL4/sjx1QSsr5nYMGf09zac2kQ/edit?utm_content=DAGRsA8zfL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 👈 <br>
 
