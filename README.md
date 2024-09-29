@@ -21,7 +21,8 @@
 </p>
 
 ## Desenvolvimento 💻
-
+- Estamos utilizando o Node-RED para o site e o programa que gerencia o sensor de peso e a localização dos carrinhos. A WiFi.h conecta o ESP32 ao Wi-Fi e escaneia redes, enquanto a PubSubClient.h envia dados ao broker MQTT (Mosquitto). A HX711.h configura a balança e a ArduinoJson.h converte os dados para JSON, compatível com o Node-RED. Essas bibliotecas garantem uma integração eficiente entre hardware e software.
+  
 ### Solução IoT do ESP32 🌐
 
 ## Resultados ✅
